@@ -8,6 +8,7 @@ This project is a demonstration of an Object-Relational Mapping (ORM) implementa
 
 1. [Usage](#usage)
 2. [Database Schema](#database-schema)
+2. [Video](#video)
 3. [Models](#models)
 4. [Routes](#routes)
 5. [Tests](#tests)
@@ -28,8 +29,16 @@ You can use tools like [Insomnia](https://www.insomnia.rest) to test the API end
 
 ## Database Schema
 
-
 You can find the SQL schema in the `db/schema.sql` file.
+
+## Video 
+
+[Walkthrough Video](https://drive.google.com/file/d/114npr4lmrFqefRBau3of0mE5_eQlqQa-/view)
+
+![Alt text](<images/Screenshot 2023-11-02 193826.png>)
+![Alt text](<images/Screenshot 2023-11-02 193834.png>)
+![Alt text](<images/Screenshot 2023-11-02 193913.png>)
+
 
 ## Models
 
